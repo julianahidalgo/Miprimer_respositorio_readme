@@ -53,3 +53,6 @@ $$
 x = 2^4*y + 1
 $$
 
+![Foto1](cienciadedatos.jpg)
+![Gif1](gif.gif)
+
